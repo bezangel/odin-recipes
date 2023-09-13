@@ -1,0 +1,1 @@
+This project is the first being done to test the fundamentals for beuilding a website. Let's see how this goes!
